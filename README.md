@@ -23,4 +23,4 @@ is then created from the dictionary to preserve the 'key-value'
 pairs and then sorted on the 'keys' so the feature class
 will be sorted alphabetically in the HTML table.
 
-The HTMl table has 3 columns: layer Name, list of service names and a list of MXDs for each service name.
+The HTML table has 3 columns: layer Name, list of service names and a list of MXDs for each service name.
